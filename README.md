@@ -7,7 +7,7 @@ Skill-Wanderer is an organization with a dual mission, operating at the intersec
 ### **Our Core Pillars**
 
 #### 🎓 Skill-Wanderer Education
-This is our mission-driven educational platform dedicated to making quality tech and business education accessible to all. 
+This is our non-profit educational platform dedicated to making quality tech and business education accessible to all. 
 * **Curriculum & Content:** We provide highly practical, real-world-informed e-learning, with initial content being AI-generated or curated.
 * **Our Principles:** The platform operates with complete integrity. It is free of paid ads and affiliate marketing, and we accept no commissions from third-party resources we recommend.
 * **Reinvestment:** All net revenue from Skill-Wanderer's operations is reinvested back into our global mission, ensuring our focus remains on impact, not profit.
