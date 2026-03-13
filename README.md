@@ -1,30 +1,41 @@
-# Welcome to Skill-Wanderer
+# Skill-Wanderer
 
-Skill-Wanderer is an organization with a dual mission, operating at the intersection of high-end technology consulting and accessible, mission-driven education. Our work is guided by a "skill-wandering" philosophy—a commitment to broad and deep expertise, continuous learning, and fostering a global community.
+**Building practical technology skills through real-world engineering and open learning.**
 
----
+Skill-Wanderer is an organization with two connected pillars: mission-driven education and professional technology services. We operate with a "learn by doing" mindset and share practical systems, code, and lessons in public whenever possible.
 
-### **Our Core Pillars**
+## Ecosystem
 
-#### 🎓 Skill-Wanderer Education
-This is our non-profit educational platform dedicated to making quality tech and business education accessible to all. 
-* **Curriculum & Content:** We provide highly practical, real-world-informed e-learning, with initial content being AI-generated or curated.
-* **Our Principles:** The platform operates with complete integrity. It is free of paid ads and affiliate marketing, and we accept no commissions from third-party resources we recommend.
-* **Reinvestment:** All net revenue from Skill-Wanderer's operations is reinvested back into our global mission, ensuring our focus remains on impact, not profit.
+| Area | Purpose | Link |
+| :--- | :--- | :--- |
+| **Hub** | Organization home, mission, and services. | [skill-wanderer.com](https://skill-wanderer.com) |
+| **Wanderings** | Technical articles, architecture notes, and field logs. | [wanderings.skill-wanderer.com](https://wanderings.skill-wanderer.com) |
+| **Dojo** | Structured learning platform and practice labs. | [dojo.skill-wanderer.com](https://dojo.skill-wanderer.com) |
 
-#### 💻 Skill-Wanderer Technology Services
-This is our professional consulting arm, where we partner with technology startups, SMBs, and IT agencies to build innovative and scalable solutions.
-* **Our Expertise:** We specialize in full-cycle software development, solution architecture, cloud/DevOps, and technical project management.
-* **Future Focus:** We are strategically expanding our services to include AI, Data, and Cybersecurity.
-* **Global Value:** Based in Vietnam, we offer world-class expertise to a global clientele, providing a significant value advantage.
+## Core Pillars
 
----
+### Education
 
-### **Explore the Skill-Wanderer Ecosystem**
+Our non-profit education direction focuses on accessible, practical learning.
 
-* 🌐 **Hub & More About Us:** [Our Hub](https://skill-wanderer.com)
-* ✍️ **Blog & Articles:** [Our Blog](https://wanderings.skill-wanderer.com)
-* 🛠️ **Dojo:** [Our Dojo and Labs](https://dojo.skill-wanderer.com)
-* 🤝 **Inquire about Technology Services:** [Our Services](https://skill-wanderer.com/services)
+- **Practical curriculum:** Hands-on content connected to production realities.
+- **Integrity-first model:** No paid ads, no affiliate commissions, no sponsored recommendations.
+- **Mission reinvestment:** Net revenue is reinvested to expand reach and quality.
 
-**Our Synergy:** The two pillars of Skill-Wanderer are deeply connected. The real-world challenges we solve for our Technology Services clients directly fuel the practical, relevant, and cutting-edge content for our Education platform. This GitHub is where our professional work and our educational mission intersect, showcasing projects, code, and learning resources that reflect our commitment to excellence and community.
+### Technology Services
+
+Our consulting practice helps teams design, build, and scale modern software systems.
+
+- **Current scope:** Full-cycle development, architecture, cloud/DevOps, and delivery leadership.
+- **Growth areas:** AI, data, and cybersecurity capabilities.
+- **Global delivery:** Vietnam-based team supporting international clients with strong value and quality.
+
+## How The Two Pillars Connect
+
+Client projects create real implementation experience. That experience informs better educational content. In turn, teaching and documentation sharpen our engineering standards. This repository reflects that loop by sharing projects, patterns, and learning assets.
+
+## Contact
+
+- **Main point of contact (Founder):** [quan.nguyen@skill-wanderer.com](mailto:quan.nguyen@skill-wanderer.com)
+- **Services:** [skill-wanderer.com/services](https://skill-wanderer.com/services)
+- **Founder on LinkedIn:** [quan-nguyen-skill-wanderer](https://www.linkedin.com/in/quan-nguyen-skill-wanderer/)
