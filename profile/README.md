@@ -1,51 +1,60 @@
-# 🧭 Skill-Wanderer
+# 🏛️ Skill-Wanderer — A Tech Guild for Social Good
 
-**"Bridging the gap between academic theory and real-world technology application."**
+**Learn by Building. Grow by Contributing. Sustain Through Craft.**
 
-Welcome to the official GitHub organization for **Skill-Wanderer**, a non-profit learning ecosystem designed to empower aspiring tech professionals through transparency, hands-on practice, and "building in public."
+Skill-Wanderer is a **tech guild** working toward becoming a social enterprise—where apprentices, journeymen, and masters learn and work together on real projects. Every guild engagement funds free education. No ads, no hidden agendas—just craft, community, and purpose.
 
 ---
 
-## 🌐 The Ecosystem
+## ⚒️ The Guild Model
 
-Skill-Wanderer is more than just a repository; it is a distributed learning environment:
+Like the craft guilds of old, we unite education and professional work into a single, self-sustaining cycle. Masters mentor journeymen, journeymen guide apprentices, and together the guild takes on real projects that fund free learning for all.
 
-| Zone | Purpose | Link |
+| Guild Zone | Purpose | Link |
 | :--- | :--- | :--- |
-| **The Mission Hub** | Main landing page and strategic center. | [skill-wanderer.com](https://skill-wanderer.com) |
-| **The Knowledge Base** | Technical deep dives & "The Wanderer’s Log." | [wanderings.skill-wanderer.com](https://wanderings.skill-wanderer.com) |
-| **The Learning Dojo** | Hands-on Moodle LMS for structured courses. | [dojo.skill-wanderer.com](https://dojo.skill-wanderer.com) |
+| **The Guild Hall** | Mission, principles, and guild engagements. | [skill-wanderer.com](https://skill-wanderer.com) |
+| **The Wanderer’s Log** | Technical deep dives, architecture notes, and field logs. | [wanderings.skill-wanderer.com](https://wanderings.skill-wanderer.com) |
+| **The Dojo** | Structured learning paths and hands-on practice labs. | [dojo.skill-wanderer.com](https://dojo.skill-wanderer.com) |
 
 ---
 
-## 💡 Our Philosophy
+## 🛡️ Guild Principles
 
-We believe that high-quality technical education should be accessible, unbiased, and practical. 
+Our guild operates on non-negotiable standards that guide every decision:
 
-* **Zero-Cost Education:** All core learning materials are free, removing financial barriers to entry.
-* **Built in Public:** We document our infrastructure—from self-hosting on Ubuntu to managing Keycloak SSO—so others can learn from our journey.
-* **Integrity-First:** No ads, no affiliate links, and no sponsored content. Our guidance is driven by what actually works in production.
-* **Sustainable Tech:** Our insights are funded by real-world consulting and technology services, creating a feedback loop between the industry and the classroom.
+* 🏛️ **Craft Over Credentials** — We value what you can build over what certificates you hold. Real skill is forged through practice and mentorship.
+* ♻️ **Work Funds Education** — Revenue from guild engagements is reinvested into free education, mentorship, and community infrastructure. Zero profit extraction.
+* 🎓 **100% Free Learning** — All learning content is completely free. Human mentors and guild support are sustained through our social enterprise model.
+* 🛡️ **Complete Integrity** — No ads, no affiliate marketing, no commissions. Our only agenda is your growth and the guild’s mission.
+* 🤝 **Community of Craftspeople** — A guild where questions are welcomed, craft is respected, and everyone grows together—from first-time coders to seasoned architects.
+* 🚀 **Pathways to Purpose** — Guild members grow into mentors, project leads, or launch their own ventures. The guild is a launchpad, not a ceiling.
 
----
-
-## 🛠 Tech Stack & Projects
-
-We focus on modern, scalable, and self-hosted infrastructure:
-* **Cloud & Infra:** Docker, Docker Compose, Kubernetes, Cloudflare.
-* **Identity:** Keycloak (OIDC/SSO).
-* **Web:** Astro (Static Site Generation), Moodle (LMS).
-* **Backend/DevOps:** Linux (Ubuntu Server/Desktop), CI/CD workflows.
+> [View All 12 Principles →](https://skill-wanderer.com/principles)
 
 ---
 
-## 📫 Get Involved
+## 🛠️ The Guild’s Workshop
 
-Whether you are a student looking for guidance or a professional interested in our "Build in Public" logs, we’d love to connect.
+We forge with modern, scalable, and self-hosted infrastructure:
 
-* **LinkedIn:** [Connect with the Founder](https://www.linkedin.com/in/quan-nguyen-skill-wanderer/)
-* **Blog:** [Read The Wanderer’s Log](https://wanderings.skill-wanderer.com)
+* **Cloud & Infra:** Docker, Kubernetes, Cloudflare
+* **Identity:** Keycloak (OIDC/SSO)
+* **Web:** Nuxt, Astro, Moodle (LMS)
+* **Backend/DevOps:** Linux (Ubuntu), CI/CD workflows, GitHub Actions
+
+Every technical challenge solved in the workshop becomes knowledge shared freely with the guild.
 
 ---
 
-> *"The path of a Skill-Wanderer is not about finding a destination, but about mastering the tools to navigate any landscape."*
+## 🤝 Join the Guild
+
+Whether you’re writing your first line of code or architecting enterprise systems, the guild has a place for you.
+
+* **Explore Learning Paths:** [dojo.skill-wanderer.com](https://dojo.skill-wanderer.com)
+* **Engage the Guild:** [skill-wanderer.com/work-with-us](https://skill-wanderer.com/work-with-us)
+* **Read the Wanderer’s Log:** [wanderings.skill-wanderer.com](https://wanderings.skill-wanderer.com)
+* **Connect with the Guild Master:** [LinkedIn](https://www.linkedin.com/in/quan-nguyen-skill-wanderer/)
+
+---
+
+> *“In the old craft guilds, masters taught apprentices by working alongside them—not in classrooms, but in workshops, building real things. We believe tech education should work the same way.”*

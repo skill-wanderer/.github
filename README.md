@@ -1,41 +1,43 @@
 # Skill-Wanderer
 
-**Building practical technology skills through real-world engineering and open learning.**
+**A tech guild for social good — where craft funds learning and learning fuels craft.**
 
-Skill-Wanderer is an organization with two connected pillars: mission-driven education and professional technology services. We operate with a "learn by doing" mindset and share practical systems, code, and lessons in public whenever possible.
+Skill-Wanderer is a tech guild working toward becoming a social enterprise. We unite education and professional work into a single, self-sustaining cycle: guild engagements deliver value to clients while funding free, accessible learning for the next generation of craftspeople.
 
-## Ecosystem
+## The Guild
 
-| Area | Purpose | Link |
+| Guild Zone | Purpose | Link |
 | :--- | :--- | :--- |
-| **Hub** | Organization home, mission, and services. | [skill-wanderer.com](https://skill-wanderer.com) |
-| **Wanderings** | Technical articles, architecture notes, and field logs. | [wanderings.skill-wanderer.com](https://wanderings.skill-wanderer.com) |
-| **Dojo** | Structured learning platform and practice labs. | [dojo.skill-wanderer.com](https://dojo.skill-wanderer.com) |
+| **Guild Hall** | Mission, principles, and guild engagements. | [skill-wanderer.com](https://skill-wanderer.com) |
+| **Wanderer’s Log** | Technical articles, architecture notes, and field logs. | [wanderings.skill-wanderer.com](https://wanderings.skill-wanderer.com) |
+| **Dojo** | Structured learning paths and practice labs. | [dojo.skill-wanderer.com](https://dojo.skill-wanderer.com) |
 
-## Core Pillars
+## Guild Pillars
 
 ### Education
 
-Our non-profit education direction focuses on accessible, practical learning.
+Our non-profit education mission provides free, practical learning sustained by the guild model.
 
-- **Practical curriculum:** Hands-on content connected to production realities.
-- **Integrity-first model:** No paid ads, no affiliate commissions, no sponsored recommendations.
-- **Mission reinvestment:** Net revenue is reinvested to expand reach and quality.
+- **Guild-based learning:** Progress from Apprentice to Journeyman to Master through structured mentorship, hands-on projects, and peer collaboration.
+- **Learn by building:** Guild members work on real projects for real clients. Every line of code shipped is a lesson learned.
+- **100% free content:** All learning materials are completely free. No ads, no affiliate commissions, no hidden agendas.
+- **Integrity-first:** Our recommendations are purely for learner benefit—no sponsored content, ever.
 
-### Technology Services
+### Guild Engagements
 
-Our consulting practice helps teams design, build, and scale modern software systems.
+Our consulting craft helps teams design, build, and scale modern software systems—and every engagement directly funds free education.
 
 - **Current scope:** Full-cycle development, architecture, cloud/DevOps, and delivery leadership.
 - **Growth areas:** AI, data, and cybersecurity capabilities.
-- **Global delivery:** Vietnam-based team supporting international clients with strong value and quality.
+- **Global delivery:** Vietnam-based guild supporting international clients with strong value and quality.
 
-## How The Two Pillars Connect
+## How the Pillars Connect
 
-Client projects create real implementation experience. That experience informs better educational content. In turn, teaching and documentation sharpen our engineering standards. This repository reflects that loop by sharing projects, patterns, and learning assets.
+Guild engagements create real implementation experience. That experience forges better educational content. In turn, teaching and documentation sharpen our engineering craft. This virtuous cycle—where work funds learning and learning enriches work—is what makes the guild model powerful. Today’s apprentices become tomorrow’s masters, and every project shipped funds the next wave of free education.
 
 ## Contact
 
-- **Main point of contact (Founder):** [quan.nguyen@skill-wanderer.com](mailto:quan.nguyen@skill-wanderer.com)
-- **Services:** [skill-wanderer.com/services](https://skill-wanderer.com/services)
-- **Founder on LinkedIn:** [quan-nguyen-skill-wanderer](https://www.linkedin.com/in/quan-nguyen-skill-wanderer/)
+- **Guild Master (Founder):** [quan.nguyen@skill-wanderer.com](mailto:quan.nguyen@skill-wanderer.com)
+- **Engage the Guild:** [skill-wanderer.com/work-with-us](https://skill-wanderer.com/work-with-us)
+- **Guild Principles:** [skill-wanderer.com/principles](https://skill-wanderer.com/principles)
+- **LinkedIn:** [quan-nguyen-skill-wanderer](https://www.linkedin.com/in/quan-nguyen-skill-wanderer/)
